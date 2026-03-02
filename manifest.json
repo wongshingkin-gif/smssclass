@@ -1,5 +1,5 @@
 {
-  "name": "班級評分系統",
+  "name": "SMSS班級評分系統",
   "short_name": "評分系統",
   "description": "用來紀錄學生加扣分的系統",
   "start_url": "./index.html",
@@ -8,14 +8,15 @@
   "theme_color": "#4CAF50",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "SMSSCLASS.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "SMSSCLASS.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
+
 }
